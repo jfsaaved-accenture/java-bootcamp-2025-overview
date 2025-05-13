@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "e0366a568301426d",
+    "type": "split",
+    "children": [
+      {
+        "id": "caae2d9355bcdd88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdba38cb6f26f4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Boot Camp 2025 - Accenture v3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Boot Camp 2025 - Accenture v3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d2dd62719fb6cd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83718cb79bcdbce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbd5b6768d694371",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "496b7cbfa931b11f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c8df433031a4885",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "d6c33cdb2761c5c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b5126b8ed02ce30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ae5c4d181c6279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java Boot Camp 2025 - Accenture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Java Boot Camp 2025 - Accenture"
+            }
+          },
+          {
+            "id": "c619f47b70c1cdc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java Boot Camp 2025 - Accenture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Java Boot Camp 2025 - Accenture"
+            }
+          },
+          {
+            "id": "78c0014a5d03252d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "97c7dfa8bbe4294d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java Boot Camp 2025 - Accenture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Java Boot Camp 2025 - Accenture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bdba38cb6f26f4a2",
+  "lastOpenFiles": [
+    "Java Boot Camp 2025 - Accenture.md",
+    "Java Boot Camp 2025 - Accenture v2.md",
+    "Java Boot Camp 2025 - Accenture v3.md"
+  ]
+}
