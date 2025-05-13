@@ -2,7 +2,7 @@
 - A condensed guide to Java, OOP, & Spring Boot, with AM & PM sessions
 - Interactive and will spend a decent amount of time reading and writing Java code
 - Answers will be shared for the hands-on at the end of the day
-- **No WBS**
+- **No charge code**
 ### **Goals / Benefits**
 - Get a basic understanding of Java & Spring Boot
 - Get a foundational mental road map and be confident on how to navigate deeper
