@@ -1,12 +1,24 @@
-
-### **AM Structure**
-**First half** 
-	- Discuss topic
-	- Live demo with Java regarding the topic
-**Second half** 
-	- Describe assignment
-	- Solve an example for the assignment
-### **PM Structure**
+### **Information**
+- A condensed guide to Java, OOP, & Spring Boot, with AM & PM sessions
+- Interactive and will spend a decent amount of time reading and writing Java code
+- Answers will be shared for the hands-on at the end of the day
+- **No WBS**
+### **Goals / Benefits**
+- Get a basic understanding of Java & Spring Boot
+- Get a foundational mental road map and be confident on how to navigate deeper
+- Be confident in making your own Java personal projects
+- Be confident in learning a new language
+- Have a repository of multiple code examples that you made / collaborated with others
+- Have some foundation for your first Java role
+- Have a place to practice public communication skills and doing technical demos
+### **AM Structure (1 hour)**
+**First half (30 mins)** 
+- Discuss topic
+- Live demo with Java regarding the topic
+**Second half (30 mins)** 
+- Describe assignment
+- Solve an example for the assignment
+### **PM Structure (1 hour)**
 Have others demo assignments and/or what they have learned
 ### **GitHub Repository**
 We will use a repository stored in Github to share problems and solutions - https://github.com/jfsaaved-accenture
