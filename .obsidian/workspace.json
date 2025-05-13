@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 200
   },
   "right": {
     "id": "d6c33cdb2761c5c8",
@@ -170,8 +170,8 @@
   },
   "active": "bdba38cb6f26f4a2",
   "lastOpenFiles": [
-    "Java Boot Camp 2025 - Accenture.md",
     "Java Boot Camp 2025 - Accenture v2.md",
-    "Java Boot Camp 2025 - Accenture v3.md"
+    "Java Boot Camp 2025 - Accenture v3.md",
+    "Java Boot Camp 2025 - Accenture.md"
   ]
 }
