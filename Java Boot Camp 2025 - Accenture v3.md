@@ -11,17 +11,23 @@
 - Have a repository of multiple code examples that you made / collaborated with others
 - Have some foundation for your first Java role
 - Have a place to practice public communication skills and doing technical demos
-### **AM Structure (1 hour)**
+### **AM Meeting Structure (1 hour)**
 **First half (30 mins)** 
 - Discuss topic
 - Live demo with Java regarding the topic
+
 **Second half (30 mins)** 
 - Describe assignment
 - Solve an example for the assignment
-### **PM Structure (1 hour)**
+### **Suggestions Throughout The Day**
+- Work through the assignment / problems
+- Think of other ways to solve the problem
+- Upload to your own repository and familiarize yourself with version control
+- Dive deeper into the subject / do your own self study
+### **PM Meeting Structure (1 hour)**
 Have others demo assignments and/or what they have learned
 ### **GitHub Repository**
-We will use a repository stored in Github to share problems and solutions - https://github.com/jfsaaved-accenture
+We will use this following repository stored in Github to share problems and solutions - https://github.com/jfsaaved-accenture
 
 ---
 ### **Week 1 – Introduction to Coding (Language-Agnostic Concepts with Java)**
